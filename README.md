@@ -20,6 +20,7 @@ Failed count is 3 in 2 mins trigger the alert.
 
 <img width="1580" alt="Screenshot 2023-03-25 at 3 37 58 PM" src="https://user-images.githubusercontent.com/43849911/227710807-4aed5ea1-8249-448d-a8bf-993987318941.png">
 
+<img width="1579" alt="Screenshot 2023-03-25 at 4 05 53 PM" src="https://user-images.githubusercontent.com/43849911/227712057-89954979-b69d-4415-9a59-9a2a4d2b2793.png">
 
 <img width="1590" alt="Screenshot 2023-03-25 at 3 38 16 PM" src="https://user-images.githubusercontent.com/43849911/227710824-fc97b925-1332-4af9-a0dc-1c3a08565b7c.png">
 
